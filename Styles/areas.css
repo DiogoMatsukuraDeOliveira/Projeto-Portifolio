@@ -1,0 +1,22 @@
+main {
+    z-index: 1;
+    position: relative;
+}
+
+footer {
+    z-index: 2;
+    position: relative;
+}
+
+header {
+    position: relative;
+    height: 40px;
+    width: 112px;
+    left: 87vw;
+    padding-top: 1vw;
+}
+
+header .links {
+    display: flex;
+    justify-content: flex-end;   
+}

@@ -1,0 +1,73 @@
+.white {
+  background-color: rgb(255, 255, 255);
+  margin-top: -3.3em;
+  padding-bottom: 3vw;
+}
+
+.title2 {
+  padding-top: 8vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  font-size: 0.5em;
+}
+
+.firsttext {
+  column-gap: 2vw;
+  row-gap: 2vw;
+  text-align: center;
+  padding-left: 1em;
+  width: 30em;
+}
+
+.secondtext {
+  column-gap: 2vw;
+  row-gap: 2vw;
+  text-align: center;
+  padding-right: 2em;
+  width: 30em;
+}
+
+.hab {
+  padding-top: 5vw;
+  text-align: center;
+  font-size: 1.7em;
+  padding-bottom: 3vw;
+}
+
+.languages {
+  display: flex;
+  justify-content: center;
+  gap: 3vw;
+  padding-bottom: 5em;
+}
+
+.final {
+  padding-top: 1vw;
+  background-color: #2D67C0;
+  text-align: center;
+  color: white;
+  font-size: 0.7vw;
+}
+
+.msgfinal {
+  width: 40vw;
+  margin: 0 auto;
+}
+
+.projects {
+  padding-top: 5vw;
+  font-size: 1.7em;
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 4vw;
+}
+
+.imgprojects {
+  display: flex;
+  justify-content: center;
+  gap: 3vw;
+  
+}
+
